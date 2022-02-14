@@ -8,9 +8,21 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@celo-tools/use-contractkit": "^2.1.4",
+    "@celo/contractkit": "^1.5.2",
+    "@celo/utils": "^1.5.2",
+    "@chakra-ui/icons": "^1.1.5",
+    "@chakra-ui/react": "^1.8.3",
+    "@emotion/react": "^11",
+    "@emotion/styled": "^11",
+    "@fontsource/inter": "^4.5.4",
+    "@fontsource/poppins": "^4.5.1",
+    "framer-motion": "^5",
+    "fs-extra": "^10.0.0",
     "next": "12.0.10",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-icons": "^4.3.1"
   },
   "devDependencies": {
     "eslint": "8.8.0",
